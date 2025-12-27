@@ -61,4 +61,9 @@ I am a results-driven full-stack developer focused on building scalable, product
 
 ---
 
+## Contact
+- Portfolio: https://transcendent-selkie-308ab0.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/sarthak-bhuptani/
+- Email: mrsarthak825@gmail.com
+
 ⭐ *Open to full-time roles, internships, and freelance opportunities*
