@@ -63,10 +63,9 @@ I am a results-driven full-stack developer focused on building scalable, product
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthakbhuptani123&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakbhuptani123&layout=compact&theme=radical" height="165" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarthakbhuptani123&show_icons=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakbhuptani123&layout=compact&cache_seconds=1800)
 
 ---
 
