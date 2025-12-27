@@ -37,27 +37,36 @@ I am a results-driven full-stack developer focused on building scalable, product
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Stack
 **Frontend:** React, Tailwind CSS, JavaScript  
 **Backend:** Node.js, Express, Django  
-**Database:** MongoDB, MySQL  
+**Databases:** MongoDB, MySQL  
 **Tools:** Git, GitHub, Postman  
 **Deployment:** Netlify, Render  
 
 ---
 
-## 📈 What I Bring to a Team
-- Clean, readable, and maintainable code
-- Strong debugging and problem-solving skills
-- Ownership mindset and continuous learning attitude
-- Clear communication and teamwork focus
+## Engineering Approach
+- Break down requirements into modular, testable components
+- Emphasize readability, consistency, and reusability in code
+- Debug systematically and improve existing implementations
+- Adapt quickly to new tools, APIs, and frameworks
 
 ---
 
-## 📫 Connect With Me
-- **Portfolio:** https://transcendent-selkie-308ab0.netlify.app/
-- **LinkedIn:** https://www.linkedin.com/in/sarthak-bhuptani/
-- **Email:** mrsarthak825@gmail.com
+## Currently Focused On
+- Improving backend architecture and API design
+- Building scalable full-stack applications
+- Strengthening problem-solving and system design fundamentals
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarthakbhuptani123&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakbhuptani123&layout=compact&theme=radical" height="165" />
+</p>
 
 ---
 
