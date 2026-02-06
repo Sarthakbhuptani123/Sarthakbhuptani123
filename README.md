@@ -1,63 +1,67 @@
-# Hi, I'm Sarthak Bhuptani 👋
+# 🚀 Hi, I'm Sarthak Bhuptani 👋
+**Full-Stack (MERN) Developer | React Enthusiast | Python Programmer**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Full--Stack%20Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Open%20to%20Work-green?style=for-the-badge" />
-</p>
-
-I am a results-driven **Full-Stack Developer** focused on building scalable, production-ready web applications. I transform complex requirements into clean, efficient solutions with a heavy focus on **performance, UX, and maintainability.**
+I am a results-driven **MERN Stack Developer** and a **Final Year Student** currently gaining professional experience at **Vischara Ventures**. I specialize in building high-performance, scalable web applications and AI-integrated solutions.
 
 ---
 
-### 🛠️ My Digital Arsenal
+## 🛠️ My Digital Toolbox
 
-| Category | Tech Stack |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Backend** | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+### **Core MERN Stack**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-#### 📈 [StockNavigator](https://github.com/yourusername/stock-navigator)
-*Machine Learning meets Finance.*
-- **Core:** Predicts stock trends using historical data and ML models.
-- **Impact:** Real-time data fetching with interactive Plotly visualizations.
-- `Python` `Django` `ML` `Plotly`
-
-#### 💬 [Real-Time Chat Engine](https://github.com/yourusername/chat-app)
-*Seamless Communication.*
-- **Core:** One-to-one and group messaging with sub-second latency.
-- **Impact:** Full auth system with Socket.IO integration for instant notifications.
-- `React` `Node.js` `Socket.io` `MongoDB`
-
-#### 🎓 [Quize (Online Platform)](https://github.com/yourusername/quize)
-*Educational Efficiency.*
-- **Core:** Role-based system for automated quiz creation and grading.
-- **Impact:** Scalable architecture for timed tests and analytics reporting.
-- `Django` `Python` `MySQL`
+### **Other Expertise**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Sarthak's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
+## 📂 Featured Projects (from my Portfolio)
+
+### 💬 Real-Time Chat Application (MERN)
+- **Tech:** React, Node.js, Socket.IO, MongoDB
+- **Features:** One-to-one and group messaging with sub-second latency and real-time status updates.
+
+### 📈 StockNavigator (Django + ML)
+- **Tech:** Python, Django, Machine Learning, Plotly
+- **Features:** Predicts stock trends using historical data analysis with interactive data visualizations.
+
+### 🎙️ Personal Voice Assistant (AI)
+- **Tech:** Python, Speech Recognition, Web APIs
+- **Features:** An AI-driven assistant capable of automating tasks and retrieving information via voice commands.
+
+### 🎓 Online Quiz Platform (Quize)
+- **Tech:** Django, MySQL
+- **Features:** Comprehensive role-based system for teachers and students with automated grading and timed tests.
+
+### 📰 Live News Application
+- **Tech:** React, REST API, Tailwind CSS
+- **Features:** Dynamic news aggregator with real-time category filtering and optimized reading UI.
+
+### 📚 Library Management System
+- **Tech:** PHP, MySQL
+- **Features:** Full CRUD functionality for managing book inventories, student records, and issuing history.
 
 ---
 
-### 🤝 Let's Connect
-I'm always looking for interesting projects and opportunities.
-
-- 🌐 [Personal Portfolio](https://transcendent-selkie-308ab0.netlify.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sarthak-bhuptani/)
-- 📧 [mrsarthak825@gmail.com](mailto:mrsarthak825@gmail.com)
-
----
+## 📊 GitHub Insights
 <p align="center">
-  <i>"Clean code always looks like it was written by someone who cares."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthak-bhuptani-8a232a247&show_icons=true&theme=tokyonight" alt="Sarthak's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-bhuptani-8a232a247&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </p>
+
+---
+
+## 🤝 Connect With Me
+- 🌐 **Portfolio:** [sarthak-bhuptani.netlify.app](https://sarthak-bhuptani.netlify.app/)
+- 💼 **LinkedIn:** [Sarthak Bhuptani](https://www.linkedin.com/in/sarthak-bhuptani-8a232a247/)
+- 📧 **Email:** [mrsarthak825@gmail.com](mailto:mrsarthak825@gmail.com)
+- 📍 **Location:** Gandhinagar, Gujarat 🇮🇳
+
+---
+*“Turning complex logic into simple, beautiful user experiences.”*
