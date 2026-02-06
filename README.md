@@ -51,11 +51,7 @@ I am a results-driven **Full-Stack Developer** and a **Final Year Student**. I f
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Sarthak's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
-</p>
+
 
 ---
 
